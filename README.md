@@ -3,8 +3,10 @@
   
 - 🌱 Atualmente estou fazendo o curso de 12 meses "Profissão: Engenheiro front-end" da EBAC com 76% de conclusão.
 
+<div>
 <img src="https://github-readme-stats-xi-six-23.vercel.app/api?username=danijoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-stats-xi-six-23.vercel.app/api/top-langs/?username=danijoss&layout=compact&langs_count=7&theme=dracula" />
+<div>
 
 <!--
 **danijoss/danijoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
